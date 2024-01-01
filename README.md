@@ -12,8 +12,8 @@
 
 
 
-**
-smart_shower_code.py:**     It is the code to connect wireless sensors to the Raspberry Pi which in turn is connected to the IoT (Internet of Things) platform. 
+
+**smart_shower_code.py:**   It is the code to connect wireless sensors to the Raspberry Pi which in turn is connected to the IoT (Internet of Things) platform. 
 
 It is divided into the following code snippets:
 
@@ -28,12 +28,12 @@ It is divided into the following code snippets:
 
 (v) Data receiving from ThingSpeak
 
+The following sensors 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**
 
-shart_shower_result.py:**
+**shart_shower_result.py:**
 
 It shows the output for the python code. 
 
@@ -47,6 +47,8 @@ It uses the sensor measurement to evaluate if an individual is in the shower spa
 
 This same principle can be applied to SMART Refrigerator. 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ****Please cite the following if you are using the resources: ****
 
