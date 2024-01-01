@@ -15,6 +15,19 @@
 **
 smart_shower_code.py:**     It is the code to connect wireless sensors to the Raspberry Pi which in turn is connected to the IoT (Internet of Things) platform. 
 
+It is divided into the following code snippets:
+
+(i) Library setup
+
+(ii) Variable setup
+
+(iii) GPIO setup
+
+(iv) Data sending to ThingSpeak
+
+
+(v) Data receiving from ThingSpeak
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
