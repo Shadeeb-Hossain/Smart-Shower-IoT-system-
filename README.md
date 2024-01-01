@@ -31,6 +31,21 @@ It is divided into the following code snippets:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**
+
+shart_shower_result.py:**
+
+It shows the output for the python code. 
+
+Distance: It shows the sensor measurement using Ultrasonic Transducer. 
+
+Temperature: It shows the temperature measurement using temperature sensor. 
+
+Humidity : It shows the humidity measurement using the humidity sensor. 
+
+It uses the sensor measurement to evaluate if an individual is in the shower space. 
+
+This same principle can be applied to SMART Refrigerator. 
 
 
 ****Please cite the following if you are using the resources: ****
