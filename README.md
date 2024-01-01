@@ -28,7 +28,11 @@ It is divided into the following code snippets:
 
 (v) Data receiving from ThingSpeak
 
-The following sensors 
+
+The IoT platform for this application is Thing Speak IoT
+and the sensors include (i) HC-SR04 ultrasonic sensor (ii) AH10-temperature and humidity
+sensor (iii) CZN -15E sound sensor and (iv) PAJ 7620 gesture sensor. Python programming code
+was used to interface the sensors with Raspberry Pi 3. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
