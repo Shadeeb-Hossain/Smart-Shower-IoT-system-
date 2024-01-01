@@ -1,5 +1,7 @@
  ##!/usr/bin/env python
 ## This system is used to Display whether a seat is occupied or not
+
+
 ## Cite: Hossain, S., & Abdelgawad, A. (2023). Low-Cost Architecture for an Advanced Smart Shower System Using Internet of Things Platform. arXiv preprint arXiv:2311.07712.
 
 __author__ = 'Shadeeb Hossain'
